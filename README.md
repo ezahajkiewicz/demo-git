@@ -59,4 +59,4 @@ Krótki opis: co robi projekt i dla kogo jest.
  
 ## Autorzy
 
- Imię Nazwisko - email
+ Imię Nazwisko - email bardzo poważny
